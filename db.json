@@ -1,5 +1,5 @@
 {
- "wo":[
+ "woAndShipmentStatus":[
   40, 20, 20 , 10,10 ],
  "IBASN":[
    { "data": [65, 59, 80, 81, 56 ], "name": "Factory" },
@@ -13,6 +13,5 @@
   { "data": [65, 59, 80, 81, 56, 55, 40], "name": "Box pick", "stack": "a" },
   { "data": [28, 48, 40, 19, 86, 27, 90], "name": "Part Pick", "stack": "a" }
  ],
- "obasn": [55, 25, 20, 5, 10],
- "shipmentStatus":[100,500,200, 40,120    ]
+ "obasn": [55, 25, 20, 5, 10]
 }
